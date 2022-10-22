@@ -1,5 +1,5 @@
 {
-  "name": "partial_rating",
+  "name": "partial_star_rating",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
